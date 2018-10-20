@@ -1,0 +1,5 @@
+﻿token=process.env.BOT_TOKEN
+owner=452191687159185409
+prefix=6
+stayinchannel=true 
+songinstatus=false 
